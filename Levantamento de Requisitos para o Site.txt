@@ -1,0 +1,50 @@
+| Cadastro de Produtos |
+→ Nome (obrigatório)
+→ Aplicação (obrigatório)
+→ Lançamento
+→ Ativo
+→ Linhas
+→ Número de duchas
+→ Vazão (litros/min)
+→ Vídeo
+→ Imagens (obrigatório)
+→ Folders
+→ Manuais
+→ Modelos
+→ Vantagens
+→ Características Técnicas
+→ Especificações Técnicas
+→ Outro (Adiciono o Título e o texto/imagem)
+
+| Cadastro de Linhas |
+→ Nome da Linha
+
+>> ASSISTENTES TÉCNICOS E REPRESENTANTES SERÃO CADASTRADOS SEPARADAMENTE? <<
+
+| Cadastro de Assistentes Técnicos e Representantes |
+→ Nome Fantasia
+→ Nome do Responsável
+→ CNPJ
+→ Linhas que trabalha
+→ Estados e cidades onde atende
+→ Endereço
+→ Contato
+→ Whatsapp
+→ Email
+→ Ativo
+
+| Pedidos de Orçamentos |
+→ ID do produto
+→ Quantidade
+→ Observação
+*dados para contato*
+→ Pessoa Física o	u Jurídica
+→ Nome
+→ Email
+→ Telefone
+→ Celular
+→ CPF
+→ UF
+→ Cidade
+
+ 
